@@ -1,8 +1,9 @@
-## Hey!! My name is Luiz, and I'm a systems analyst.
+ <div align="center"> Hey!! My name is Luiz, and I'm a systems analyst. <div/>
 
 
-          
-<a href="https://github.com/Felps-spb/github-readme-stats">
+###
+ <div align="center">
+            <a href="https://github.com/Felps-spb/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Felps-spb&show_icons=true&theme=merko" />
 </a>
 <a href="https://github.com/Felps-spb/convoychat">
@@ -20,7 +21,7 @@
   
 </div>
 
-##
+###
 
 <div> 
   <a href="https://instagram.com/l.fsantana" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -29,7 +30,21 @@
   
 </div>
 
+</div>         
+
+##
+
+<div align="center">
+  <img height="400" src="https://i.pinimg.com/originals/ae/1a/32/ae1a3228917786b1c62c8f4ee9a827fe.gif"  />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Felps-spb/Felps-spb/output/snake.svg" alt="Snake animation" />
+</div>
+
+
+##
+
 ###
 
-<img src="https://raw.githubusercontent.com/Felps-spb/Felps-spb/output/snake.svg" alt="Snake animation" />
 
