@@ -1,12 +1,4 @@
-
-
 name: Generate Snake
-
-
-
-  
-  
-
 
 on:
 
@@ -17,20 +9,7 @@ on:
     - cron: "0 */6 * * *"
 
 
-
-  
-  
-  This command allows us to run the Action automatically from the Actions tab.
-
-
 workflow_dispatch:
-
-
-
-  
-  
-  The sequence of runs in this workflow:
-
 
 jobs:
 
@@ -42,9 +21,7 @@ jobs:
 
     runs-on: ubuntu-latest
 
-
-
-# Steps represent a sequence of tasks that will be executed as part of the job
+    # Steps represent a sequence of tasks that will be executed as part of the job
 steps:
 
 # Checks repo under $GITHUB_WORKSHOP, so your job can access it
