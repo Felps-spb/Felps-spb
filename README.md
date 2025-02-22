@@ -34,9 +34,7 @@
 
 ##
 
-<div align="center">
-  <img height="400" src="https://i.pinimg.com/originals/ae/1a/32/ae1a3228917786b1c62c8f4ee9a827fe.gif"  />
-</div>
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Felps-spb/Felps-spb/output/snake.svg" alt="Snake animation" />
