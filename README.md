@@ -8,7 +8,7 @@ and analyzing sensor data to extract actionable insights. Passionate about softw
 integrated technologies, I leverage my full-stack knowledge to drive innovation, automation, and efficiency
 across diverse applications.
 
-- 🖥️ Java, JavaScript, Spring Boot, C, Node.js
+- 🖥️ Java, JavaScript, Spring Boot, C, Node.js, Python
 - 📅 Programming since 2022
 - 📚 Student of Systems Analysis and Development at the Federal Institute of Pernambuco
 - 🤩 In Love to build any application, in any language, as long I'm being challenged!
