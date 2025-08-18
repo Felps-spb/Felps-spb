@@ -3,10 +3,9 @@ I am a student of Systems Analysis and Development and currently work as a backe
 I work with containerization (Docker), continuous integration and delivery (CI/CD), messaging with RabbitMQ, and databases such as PostgreSQL and ClickHouse. I also have experience with Java and Spring Boot in developing robust and scalable backend systems.
 I have participated in projects involving IoT technologies, integrating embedded devices with web platforms for real-time data collection and analysis. I work in agile teams (Scrum/Kanban), with a focus on performance, scalability, technical documentation (Swagger/OpenAPI), and code versioning (Git). I am always seeking continuous learning and efficient solutions for real-world challenges.
 
-- 🖥️ Java, JavaScript, Spring Boot, C, Node.js, Python
+- 🖥️ Python, FastApi, AWS, Java, Spring Boot, C, Node.js
 - 📅 Programming since 2022
 - 📚 Student of Systems Analysis and Development at the Federal Institute of Pernambuco
-- 🤩 In Love to build any application, in any language, as long I'm being challenged!
 - 📫 Contact me via luizfelipespb22@gmail.com or via LinkedIn
 
 ## 🌐Socials
