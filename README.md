@@ -1,12 +1,7 @@
 # 💫About Me :
-As a Systems Analysis and Development student, I have developed a full-stack skill set through hands-on
-experience in robotics and IoT platform development, combining hardware integration with software
-expertise. In robotics, I contributed to designing, programming, and controlling embedded systems, honing
-my skills in electronics and logic. In IoT projects, I built end-to-end connected platforms, developing
-backend systems for real-time data collection and processing, creating frontend dashboards for visualization, 
-and analyzing sensor data to extract actionable insights. Passionate about software
-integrated technologies, I leverage my full-stack knowledge to drive innovation, automation, and efficiency
-across diverse applications.
+I am a student of Systems Analysis and Development and currently work as a backend developer with a focus on Python. I have experience in developing RESTful APIs, microservices, and cloud solutions with AWS (Lambda, S3, EC2, RDS, API Gateway), applying best practices such as DDD and Clean Architecture.
+I work with containerization (Docker), continuous integration and delivery (CI/CD), messaging with RabbitMQ, and databases such as PostgreSQL and ClickHouse. I also have experience with Java and Spring Boot in developing robust and scalable backend systems.
+I have participated in projects involving IoT technologies, integrating embedded devices with web platforms for real-time data collection and analysis. I work in agile teams (Scrum/Kanban), with a focus on performance, scalability, technical documentation (Swagger/OpenAPI), and code versioning (Git). I am always seeking continuous learning and efficient solutions for real-world challenges.
 
 - 🖥️ Java, JavaScript, Spring Boot, C, Node.js, Python
 - 📅 Programming since 2022
